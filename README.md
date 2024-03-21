@@ -17,10 +17,15 @@ So that later one can install them using ```pip install -r requirements.txt```.
 - The project structure is as follows:
 
 project_name/
+
 |__ src/
+
 |    |__ common/
+
 |    |    |__ util.py,
+
 |    |    |__ metrics.py, 
+
 |    |    |__ # etc.
 |    |
 |    |__ models/ 
