@@ -16,11 +16,12 @@ So that later one can install them using ```pip install -r requirements.txt```.
 
 - The project structure is as follows:
 
+```
 project_name/
 
 |__ src/
 
-| \t    |__ common/
+|    |__ common/
 
 |    |    |__ util.py,
 
@@ -47,5 +48,4 @@ project_name/
 |
 |__ config\
 |   |__*.yaml
-
-
+```
