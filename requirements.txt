@@ -1,0 +1,4 @@
+# Define the required packages/libraries 
+# along with their version in this file.
+# for instance:
+# NUMPUY==1.26.0
