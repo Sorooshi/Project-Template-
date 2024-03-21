@@ -1,7 +1,9 @@
 # Project-Template-
 This is a generic template for the projects.
-The Project description, including the title, its brief overview, how to run the code etc, should be described here.
 
 
-- Define the dependencies and the requirements of your project in "requirement.txt" file.
-Later you can install them usinf ```pip install -r requirements.txt```
+- The project description, including the title and its brief overview, how to run the code etc., should be described here.
+
+
+- Define the dependencies (requirements) of your project/package in "requirement.txt" file. 
+So that later one can install them using ```pip install -r requirements.txt```.
