@@ -20,7 +20,7 @@ project_name/
 
 |__ src/
 
-|    |__ common/
+| \t    |__ common/
 
 |    |    |__ util.py,
 
